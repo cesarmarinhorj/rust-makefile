@@ -22,4 +22,4 @@ build:
 	cargo build --release
 
 exec:
-	./target/release/$(EXEC_NAME)
+	./target/release/$(MY_PROJECT_NAME)

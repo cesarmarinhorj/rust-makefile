@@ -17,7 +17,7 @@ A simple Makefile for Rust projects in Linux
 ## Change executable name in Makefile
 
 The first line in Make file is the binary name generated after "build" target.
-Change this value to the right project name.
+Change this value to the right project name. Change it again in last line.
 
 
 ## Todo
